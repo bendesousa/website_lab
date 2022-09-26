@@ -26,9 +26,9 @@ This will include 6 elements. The current section should be highlighted in a dif
 ### Mission Statement
 A description of the purpose and aims of the site
 
--Get people to enjoy time with people who share an interest
+- Get people to enjoy time with people who share an interest
 
--Allow you to discover new people and food
+- Allow you to discover new people and food
 
 
 ### Top Profiles
@@ -44,11 +44,11 @@ Form and Submit button
 ### Footer Nav Bar
 This will have 3 elements. 
 
--Logo
+- Logo
 
--Message
+- Message
 
--Contact 
+- Contact 
 
 
 ## Wireframe
