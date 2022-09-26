@@ -1,29 +1,29 @@
-#Website Lab
+# Website Lab
 
-##Theme
-###Food Dating Site
-Match people based on their food (and potentially) drink preferences 
+## Theme
+### Food Dating Site
+Match people based on their food (and potentially) drink preferences. 
 
 
 
-##Sections (of the Home Page)
-###Header Nav Bar
+## Sections (of the Home Page)
+### Header Nav Bar
 This will include 6 elements. The current section should be highlighted in a different colour. 
 
--Logo
+- Logo
 
--About
+- About
 
--Discover
+- Discover
 
--Matches
+- Matches
 
--Profile
+- Profile
 
--Login
+- Login
 
  
-###Mission Statement
+### Mission Statement
 A description of the purpose and aims of the site
 
 -Get people to enjoy time with people who share an interest
@@ -31,17 +31,17 @@ A description of the purpose and aims of the site
 -Allow you to discover new people and food
 
 
-###Top Profiles
+### Top Profiles
 Show profiles on a carousel 
 
 Hovering over a profile should enlarge and focus on it
 
 Should have button for liking and rejection
 
-###Sign Up Section
+### Sign Up Section
 Form and Submit button
 
-###Footer Nav Bar
+### Footer Nav Bar
 This will have 3 elements. 
 
 -Logo
@@ -51,6 +51,6 @@ This will have 3 elements.
 -Contact 
 
 
-##Wireframe
+## Wireframe
 
 ![](/assets/website_wireframe.jpg)
