@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+a {
+text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+header,
+section,
+footer {
+  padding: 20px 10%;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background-color: #5E239D;
+    color: white;
+}
+
+h1 {
+    width: 25%;
+}
+
+header nav {
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    background-color: black;
+    color: white;
+}
+
+.mission__statement {
+    background-color:  #F61067;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.profiles__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.profiles__card {
+    background-color:  #F61067;
+    border-radius: 25px;
+    justify-content: center;
+    padding: 10px;
+}
+
+.form__container {
+    display: grid;
+    grid-template-columns:  1fr 1fr;
+    grid-gap: 20px;
+    background-color:  #F61067;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.submit__button {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    background-color: #5E239D;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+}
+
