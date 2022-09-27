@@ -64,6 +64,31 @@ main {
     grid-template: 40% 10% 15% 15% 20% / 1fr 1fr;
 }
 
+.profile__box {
+    grid-row: 1 / 2;
+    grid-column: 1 / 3;
+}
+
+.name__box {
+    grid-row: 2 / 3;
+    grid-column: 1 / 3;
+}
+
+.bio__box {
+    grid-row: 3 / 4;
+    grid-column: 1 / 3;
+}
+
+.connect__box {
+    grid-row: 4 / 5;
+    grid-column: 1 / 2;
+}
+
+.reject__box {
+    grid-row: 4 / 5;
+    grid-column: 2 / 3;
+}
+
 .form__container {
     display: grid;
     grid-template-columns:  1fr 1fr;
